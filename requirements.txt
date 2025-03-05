@@ -4,5 +4,6 @@ streamlit
 python-dotenv
 PyPDF2
 
--e .
+ -e .
+ #// this code install aii the current pakages from setup.py.
  
